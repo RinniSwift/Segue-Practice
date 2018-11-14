@@ -11,12 +11,17 @@ import UIKit
 
 class ViewOne: UIViewController {
     
+    @IBOutlet weak var message: UITextView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }
     
     @IBAction func unwindToViewOne(_ sender: UIStoryboardSegue) {
-        
     }
+    
+    
+    
+    
     
 }
