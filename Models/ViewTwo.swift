@@ -13,6 +13,7 @@ class ViewTwo: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.backgroundColor = UIColor(red:0.90, green:0.59, blue:0.94, alpha:1.0)
     }
     
 }

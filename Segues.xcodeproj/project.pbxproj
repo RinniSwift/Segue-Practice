@@ -15,6 +15,7 @@
 		A43FB5A2219BA14E00708858 /* ViewOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43FB5A1219BA14E00708858 /* ViewOne.swift */; };
 		A43FB5A4219BA1AE00708858 /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43FB5A3219BA1AE00708858 /* ViewTwo.swift */; };
 		A43FB5A6219BAC0700708858 /* ViewThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43FB5A5219BAC0700708858 /* ViewThree.swift */; };
+		A4DFEA61219BB0A400CE9DC0 /* ViewTwo-One.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4DFEA60219BB0A400CE9DC0 /* ViewTwo-One.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		A43FB5A1219BA14E00708858 /* ViewOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewOne.swift; sourceTree = "<group>"; };
 		A43FB5A3219BA1AE00708858 /* ViewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
 		A43FB5A5219BAC0700708858 /* ViewThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThree.swift; sourceTree = "<group>"; };
+		A4DFEA60219BB0A400CE9DC0 /* ViewTwo-One.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewTwo-One.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 				A43FB58D219BA01D00708858 /* ViewController.swift */,
 				A43FB5A1219BA14E00708858 /* ViewOne.swift */,
 				A43FB5A3219BA1AE00708858 /* ViewTwo.swift */,
+				A4DFEA60219BB0A400CE9DC0 /* ViewTwo-One.swift */,
 				A43FB5A5219BAC0700708858 /* ViewThree.swift */,
 			);
 			path = Models;
@@ -164,6 +167,7 @@
 				A43FB5A6219BAC0700708858 /* ViewThree.swift in Sources */,
 				A43FB5A4219BA1AE00708858 /* ViewTwo.swift in Sources */,
 				A43FB58E219BA01D00708858 /* ViewController.swift in Sources */,
+				A4DFEA61219BB0A400CE9DC0 /* ViewTwo-One.swift in Sources */,
 				A43FB58C219BA01D00708858 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
